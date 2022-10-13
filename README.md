@@ -1,0 +1,1 @@
+# vaja2_ADC_pretvorba
