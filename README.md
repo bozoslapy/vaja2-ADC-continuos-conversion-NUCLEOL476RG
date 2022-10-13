@@ -1,1 +1,1 @@
-# vaja2_ADC_pretvorba
+# vaja2-ADC-continuos-conversion-NUCLEOL476RG
