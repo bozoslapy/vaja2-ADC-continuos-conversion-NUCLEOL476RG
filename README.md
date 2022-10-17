@@ -1,4 +1,9 @@
 # vaja2-ADC-continuos-conversion-NUCLEOL476RG
+
+
+![slika vezja](file:///C:/Users/U213.06/Downloads/IMG_20221013_074529%20(1).jpg)
+
+
 A) Glede na vašo razvojno ploščico izberite ustrezni analogni vhod. Kateri pin ste določili?
 --> PC0
 
@@ -32,4 +37,4 @@ tvz_ciklih = 239,5 ciklov
 
 
 
-![slika vezja](file:///C:/Users/U213.06/Downloads/IMG_20221013_074529%20(1).jpg)
+
