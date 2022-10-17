@@ -30,6 +30,7 @@ tvz_ciklih = 239,5 ciklov
 čas vzročanja = 239,5 ciklov / 16 MHz
 čas vzročanja = 14,97 ms
 
+![slika vezja](https://raw.githubusercontent.com/bozoslapy/vaja2-ADC-continuos-conversion-NUCLEOL476RG/main/IMG_20221013_074529.jpg)
 
 
 
