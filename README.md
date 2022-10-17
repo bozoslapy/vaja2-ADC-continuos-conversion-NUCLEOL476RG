@@ -30,6 +30,8 @@ tvz_ciklih = 239,5 ciklov
 čas vzročanja = 239,5 ciklov / 16 MHz
 čas vzročanja = 14,97 ms
 
+![Pinout mikroprocesorja](https://raw.githubusercontent.com/bozoslapy/vaja2-ADC-continuos-conversion-NUCLEOL476RG/main/pinout.PNG)
+
 ![slika vezja](https://raw.githubusercontent.com/bozoslapy/vaja2-ADC-continuos-conversion-NUCLEOL476RG/main/IMG_20221017_125634.jpg)
 
 ![Video delovanja](https://github.com/bozoslapy/vaja2-ADC-continuos-conversion-NUCLEOL476RG/blob/main/VID_20221013_073125.mp4)
