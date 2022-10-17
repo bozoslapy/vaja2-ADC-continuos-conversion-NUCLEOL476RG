@@ -28,3 +28,5 @@ tvz_ciklih = 239,5 ciklov
 čas vzročanja = tvz_ciklih / fpreskalirana
 čas vzročanja = 239,5 ciklov / 16 MHz
 čas vzročanja = 14,97 ms
+
+![slika vezja](https://mail.google.com/mail/u/0/?ui=2&view=btop&ver=1je30dsc0178v#attid%253Datt_183e581c3f053983_0.1_e3307d4a_dfefc8cb_7d8a82bd_e996fa73_4408ca4f%25252FIMG_20221013_074529.jpg)
