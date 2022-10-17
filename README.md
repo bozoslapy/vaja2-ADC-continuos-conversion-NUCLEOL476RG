@@ -14,7 +14,8 @@ f) V Clock Configuration spremenimo APB1 peripheral clock (MHz) na 16 MHz. (potr
           --> APB1 timer pa na 32 MHz
           --> vsi so imeli začetno vrednostn 80 MHz
 
-h) Clock Prescaler nastavimo z deliteljem 4. Kolikšna je sedaj preskalirana frekvenca takta fpreskalirana? __________________
+h) Clock Prescaler nastavimo z deliteljem 4. Kolikšna je sedaj preskalirana frekvenca takta fpreskalirana? 
+--> 16 MHz
 
 
 j) Sampling time (čas vzorčenja tvz_ciklih) spremenite na 239.5 cikov. Pravi čas vzorčenja se nato poveča še za 12 ciklov. Koliko znaša pravi čas vzorčenja tvz v mikro sekundah?
