@@ -36,5 +36,6 @@ tvz_ciklih = 239,5 ciklov
 
 ![Video delovanja](https://github.com/bozoslapy/vaja2-ADC-continuos-conversion-NUCLEOL476RG/blob/main/VID_20221013_073125.mp4)
 
-
+Komentar na delovanje:
+--> Naloga je bila srednje zahtevna ampak za njo nisva imela veliko težav. Nalogo sva zaključila hitreje kot sva pričakovala. Od nje sva odnesla veliko novih stvari. Delovanje se nama je zdelo zelo zanimivo saj sva nalogo izvajala prvič in nama to ni še bilo znano.
 
