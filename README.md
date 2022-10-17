@@ -29,4 +29,7 @@ tvz_ciklih = 239,5 ciklov
 čas vzročanja = 239,5 ciklov / 16 MHz
 čas vzročanja = 14,97 ms
 
+
+
+
 ![slika vezja](file:///C:/Users/U213.06/Downloads/IMG_20221013_074529%20(1).jpg)
