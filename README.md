@@ -23,8 +23,6 @@ D) Sampling time (훾as vzor훾enja tvz_ciklih) spremenite na 239.5 cikov. Pravi �
 fpreskalirana = 16 MHz
 tvz_ciklih = 239,5 ciklov
 
-----------------------------------
-
 훾as vzro훾anja = ?
 
 훾as vzro훾anja = tvz_ciklih / fpreskalirana
