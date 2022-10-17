@@ -32,7 +32,7 @@ tvz_ciklih = 239,5 ciklov
 
 ![slika vezja](https://raw.githubusercontent.com/bozoslapy/vaja2-ADC-continuos-conversion-NUCLEOL476RG/main/IMG_20221017_125634.jpg)
 
-![Video delovanja]()
+![Video delovanja](https://github.com/bozoslapy/vaja2-ADC-continuos-conversion-NUCLEOL476RG/blob/main/VID_20221013_073125.mp4)
 
 
 
